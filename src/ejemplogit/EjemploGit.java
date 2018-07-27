@@ -17,7 +17,6 @@ public class EjemploGit {
     public static void main(String[] args) {
         // TODO code application logic here
         // Un pequeño cambio
-        // Otro pequeño cambio
     }
     
 }
